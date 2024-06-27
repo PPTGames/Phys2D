@@ -7,9 +7,9 @@ Attribute VB_Name = "Phys2D"
 ' #                                                            #
 ' ##############################################################
 '
-' » Version beta 0.1.1.0
+' Â» Version beta 0.1.1.0
 '
-' » https://pptgames.gitbook.io/phys2d-api
+' Â» https://pptgames.gitbook.io/phys2d-api
 '
 ' ===============================================================
 
